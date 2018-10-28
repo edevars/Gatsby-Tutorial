@@ -6,7 +6,7 @@ export default () => (
   <div className="MainContent">
         <Link to="/contact/">Contact</Link>
     <div className="BoxBanner">
-      <img className="logo" src={require("../../public/img/logo.png")} alt=""/>
+      <img className="logo" src={require("../img/logo.png")} alt=""/>
       <h1>atsby Tutorial</h1>
     </div>
     <p>Aquí una imagen random bien shidirijilla :)</p>
