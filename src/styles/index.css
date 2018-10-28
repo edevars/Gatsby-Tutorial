@@ -1,0 +1,22 @@
+.MainContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(129, 4, 129);
+}
+
+.BoxBanner{
+    margin-top: 10vh;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    width: 64px;
+    height: 64px;
+}
